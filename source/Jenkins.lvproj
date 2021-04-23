@@ -43,7 +43,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/Users/lea13/Documents/GitHub/tests/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{37898110-913E-47D2-91F0-93B1425F5517}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{80044C21-F028-485F-98E9-93FDCE924468}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Add.vi</Property>
